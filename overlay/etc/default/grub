@@ -1,0 +1,4 @@
+# Kodiak Linux - default kernel command line
+GRUB_CMDLINE_LINUX_DEFAULT="loglevel=4 i915.enable_psr=0"
+GRUB_TIMEOUT=3
+GRUB_DISTRIBUTOR="Kodiak"

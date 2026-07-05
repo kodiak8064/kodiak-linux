@@ -1,0 +1,7 @@
+NAME="Kodiak Linux"
+PRETTY_NAME="Kodiak Linux"
+ID=kodiak
+ID_LIKE=void
+BUILD_ID=rolling
+ANSI_COLOR="1;32"
+

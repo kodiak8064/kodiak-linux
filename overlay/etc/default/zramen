@@ -1,0 +1,5 @@
+# Kodiak Linux - zram config
+# Use ~1.5x RAM as compressed swap; good default for low-RAM Chromebooks
+ZRAM_ALG=zstd
+ZRAM_SIZE_MULTIPLE=1.5
+ZRAM_PRIORITY=100
